@@ -29,7 +29,7 @@ Fake-Shops schmücken sich oft mit erfundenen Gütesiegeln, die keine wirkliche 
 Beim Online-Shopping ist es sinnvoll, sich nicht ausschließlich auf die Bewertungen innerhalb einer Webseite/Shop zu verlassen. Häufen sich dort übermäßig positive Bewertungen, kann dies ein Indiz für einen Fakeshop sein – insbesondere, wenn Bewertungen auf anderen Plattformen stark davon abweichen und auf betrügerische Machenschaften hinweisen.
 
 seriöse Seiten zu den Likes
-[Trustshop](https://www.trustedshops.de/)
+[Trustshop](https://www.trustedshops.de/)  
 [Trustpilot](https://de.trustpilot.com/review/www.trustedshops.de)
 
 ## Allgemeine Geschäftsbedingungen (AGB)
@@ -38,7 +38,7 @@ Fakeshops können frei erfundene oder von anderen Seiten kopierte Allgemeine Ges
 ## Impressum
 Ein fehlendes Impressum ist ein absolutes NOGO! Doch nicht alle Fakeshops machen es so offensichtlich. Ein vollständiges Impressum sollte unter anderem die Adresse, einen Vertretungsberechtigten und eine E-Mail-Adresse enthalten. Außerdem, falls vorhanden, einen Verweis auf das Handelsregister mit entsprechender Nummer.
 
-[Handelsregister prüfen von deutschen Firmen](https://www.handelsregister.de/rp_web/normalesuche.xhtml;jsessionid=FD194B202C46AE359EA37A7D9A557DCA.tc04n02)
+[Handelsregister prüfen von deutschen Firmen](https://www.handelsregister.de/rp_web/normalesuche.xhtml;jsessionid=FD194B202C46AE359EA37A7D9A557DCA.tc04n02)  
 [Informationspflichten von Internet-Anbietern](https://www.verbraucherzentrale.de/wissen/digitale-welt/onlinehandel/von-agb-bis-zahlung-welche-informationen-muss-mir-ein-onlineshop-geben-8350)
 
 ## Retouren und Rücksende Adresse
@@ -51,5 +51,3 @@ Prüfen Sie die Rücksendeadresse für Retouren. Oft werden Adressen in Asien an
 
 
 
-
-[Link text Here](https://link-url-here.org)
