@@ -44,10 +44,11 @@ Ein fehlendes Impressum ist ein absolutes NOGO! Doch nicht alle Fakeshops machen
 ## Retouren und Rücksende Adresse
 Prüfen Sie die Rücksendeadresse für Retouren. Oft werden Adressen in Asien angegeben.
   
-### Wichtige Links
-[Verbraucherzentrale Fakeshop Tester](https://www.verbraucherzentrale.de/fakeshopfinder-71560)
-[TrustedShop Fakeshop Scanner](https://www.trustedshops.de/fake-shops/)
-[fakeshop.at Fakeshop Scanner](https://www.fakeshop.at/shopcheck/)
+### Wichtige Links  
+[Verbraucherzentrale Fakeshop Tester](https://www.verbraucherzentrale.de/fakeshopfinder-71560)  
+[TrustedShop Fakeshop Scanner](https://www.trustedshops.de/fake-shops/)  
+[fakeshop.at Fakeshop Scanner](https://www.fakeshop.at/shopcheck/)  
+
 
 
 
