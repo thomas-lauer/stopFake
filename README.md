@@ -28,7 +28,7 @@ Fake-Shops schmücken sich oft mit erfundenen Gütesiegeln, die keine wirkliche 
 ## Bewertungen / Likes
 Beim Online-Shopping ist es sinnvoll, sich nicht ausschließlich auf die Bewertungen innerhalb einer Webseite/Shop zu verlassen. Häufen sich dort übermäßig positive Bewertungen, kann dies ein Indiz für einen Fakeshop sein – insbesondere, wenn Bewertungen auf anderen Plattformen stark davon abweichen und auf betrügerische Machenschaften hinweisen.
 
-seriöse Seiten zu den Likes
+seriöse Seiten zu den Likes  
 [Trustshop](https://www.trustedshops.de/)  
 [Trustpilot](https://de.trustpilot.com/review/www.trustedshops.de)
 
@@ -46,6 +46,8 @@ Prüfen Sie die Rücksendeadresse für Retouren. Oft werden Adressen in Asien an
   
 ### Wichtige Links
 [Verbraucherzentrale Fakeshop Tester](https://www.verbraucherzentrale.de/fakeshopfinder-71560)
+[TrustedShop Fakeshop Scanner](https://www.trustedshops.de/fake-shops/)
+[fakeshop.at Fakeshop Scanner](https://www.fakeshop.at/shopcheck/)
 
 
 
